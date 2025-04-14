@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Installation
 Clone this repository:
 ```sh
-git clone https://github.com/nikolaslps/DSP_Labs.git
-cd your-repo
+git clone https://github.com/nikolaslps/DSP_Labs/DSP.git
+cd DSP
 ```
 
 ## Author
